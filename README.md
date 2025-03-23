@@ -10,6 +10,6 @@ cd playwrightTests
 3. Установите зависимости:
 npm install
 
-4.Запуск тестов
+4. Запуск тестов
 npx playwright test
 
